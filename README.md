@@ -12,7 +12,7 @@ By streamlining the kinematics and hardware footprint of the original SO-101 des
 
 ### Key Modifications from Standard SO-101
 * **Simplified Kinematics:** Motor 6 (typically dedicated to additional wrist roll/pitch degree of freedom or complex gripper rotation) has been **removed**.
-* **Targeted End-Effector:** Custom socket tool / gripper interface designed specifically for standard 1:10 RC wheel hex adapters and lug nut sizes (7.2 mm).
+* **Targeted End-Effector:** 3D printed socket tool / gripper interface designed specifically for standard 1:10 RC wheel hex adapters and lug nut sizes (7.2 mm).
 * **Optimized Payload:** Calibration tuned for handling lightweight 1:10 scale wheels and tires.
 
 ---
