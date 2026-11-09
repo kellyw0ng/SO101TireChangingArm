@@ -1,6 +1,6 @@
 # SO-101 Tire Changing Robot Arm 
 
-A small-scale, simplified version of an industrial helper arm modified for autonomous or remote-controlled tire service. This project is directly inspired by and based on [Pollen Robotics' SO-101 Arm]([https://github.com/pollen-robotics/reachy-2023](https://github.com/TheRobotStudio/SO-ARM100)) architecture, customized specifically to service **1:10 scale Radio-Controlled (RC) cars**.
+A small-scale, simplified version of an industrial helper arm modified for autonomous or remote-controlled tire service. This project is directly inspired by and based on [Pollen Robotics' SO-101 Arm]([https://github.com/pollen-robotics/reachy-2023](https://github.com/TheRobotStudio/SO-ARM100) architecture, customized specifically to service **1:10 scale Radio-Controlled (RC) cars**.
 
 ---
 
