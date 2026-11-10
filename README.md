@@ -59,7 +59,7 @@ With **Motor 6 removed**, the joint architecture is structured as follows:
 * OpenCV (optional, if using visual alignment for lug nuts)
 
 #### Reading Order
-1. [Stage 1](../Stage1/stage1.md)
+1. [Stage 1](Stage1/stage1.md)
 ---
 
 ## 🤝 Acknowledgments
