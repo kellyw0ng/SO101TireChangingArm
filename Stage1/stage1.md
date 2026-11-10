@@ -26,7 +26,7 @@ test_corner_wheel.stl: Use 30% or more infill and 4 walls so the upright stays s
 
 ---
 
-## Removing Motor 6 , skip if done
+## Removing Motor 6 
 
 Remove the gripper on motor 6 and leave motor 5 intact.
 Picture for reference:
