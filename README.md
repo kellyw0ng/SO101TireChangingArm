@@ -1,4 +1,5 @@
 # SO-101 Tire Changing Robot Arm 
+<img width="1536" height="2048" alt="SO-101Modified1" src="https://github.com/user-attachments/assets/c9d55a21-051d-49c8-a622-b0b1ba9adb33" />
 
 A small-scale, simplified version of an industrial helper arm modified for autonomous or remote-controlled tire service. This project is directly inspired by and based on [Pollen Robotics' SO-101 Arm](https://github.com/TheRobotStudio/SO-ARM100) architecture, customized specifically to service **1:10 scale Radio-Controlled (RC) cars**.
 
@@ -57,6 +58,8 @@ With **Motor 6 removed**, the joint architecture is structured as follows:
 * Anaconda Distribution or Miniconda
 * OpenCV (optional, if using visual alignment for lug nuts)
 
+#### Reading Order
+1. [Stage 1](../Stage1/stage1.md)
 ---
 
 ## 🤝 Acknowledgments
